@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/bottesterheroku/secretindexingreadme/main/image_2022-06-23_20-00-56.png" alt="Image" />
   <h3><a href="https://t.me/HentaiAsylum">Official Channel</a></h3>
   <p><a href="https://t.me/HentaiAsylum_Requests">Requests Channel</a> · <a href="https://t.me/HentaiAsylum_Group">Chat Group</a> · <a href="https://t.me/HentaiAsylumHelper">Sponsoring</a></p>
-  <p><em>Hentai Asylum is powered by OneDrive Index and fake accounts</em></p>
+  <p><em>Hentai Asylum is powered by OneDrive Index and the workers under the channel</em></p>
 </div>
 
 
