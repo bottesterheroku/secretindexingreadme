@@ -1,15 +1,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/bottesterheroku/secretindexingreadme/main/Public/image.png" alt="onedrive-vercel-index" />
-  <h3><a href="https://t.me/The_Hunter_Organization">Official Community</a></h3>
-  <p><a href="https://indianime.com">IndiAnime Website</a> · <a href="https://t.me/AnimeDevils_Group">Chat Group</a> · <a href="https://t.me/God_Hunter_Devil">Sponsoring</a></p>
-  <p><em>IndiAnime is powered by WordPress & RankMath Plugins with the help of some contributors too</em></p>
+  <h3><a href="https://t.me/HentaiAsylum">Official Channel</a></h3>
+  <p><a href="https://t.me/HentaiAsylum_Requests">Requests Channel</a> · <a href="https://t.me/HentaiAsylum_Group">Chat Group</a> · <a href="https://t.me/HentaiAsylumHelper">Sponsoring</a></p>
+  <p><em>Hentai Asylum is powered by OneDrive Index and fake accounts</em></p>
 </div>
 
 
 
 ## TL;DR
 
-Showcase, share, preview, and download files inside *your* OneDrive with onedrive-vercel-index
+Showcase, share, preview, and download files inside OneDrive Index
 
 - Completely free to access 💸
 - Super fast ⚡ and responsive 💦
@@ -20,7 +20,7 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 ## Discussion
 
-Please go to our [discussion forum](https://t.me/AnimeDevils_Group) for general questions and FAQs, issues are for bug reports and bug reports only. Feature requests may or may not be ignored, as the [IndiAnime Team](https://t.me/The_Hunter_Organization/64) should agree your feature requests and then we can apply it.
+Please go to our [discussion forum](https://t.me/HentaiAsylum_Group) for general questions and FAQs, issues are for bug reports and bug reports only. Feature requests may or may not be ignored, as the Asylum admins should agree your feature requests and then we can apply it.
 
 
 
