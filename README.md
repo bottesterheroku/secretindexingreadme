@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/bottesterheroku/secretindexingreadme/main/image_2022-06-23_20-00-56.png" alt="Image" />
   <h3><a href="https://t.me/HentaiAsylum">Official Channel</a></h3>
-  <p><a href="https://t.me/HentaiAsylum_Requests">Requests Channel</a> · <a href="https://t.me/HentaiAsylum_Group">Chat Group</a> · <a href="https://t.me/HentaiAsylumHelper">Sponsoring</a></p>
+  <p><a href="https://t.me/HentaiAsylum_Requests">Requests Channel</a> · <a href="https://t.me/HentaiAsylum_Group">Chat Group</a> · <a href="https://t.me/HentaiAsylum_Helper">Sponsoring</a></p>
   <p><em>Hentai Asylum is powered by OneDrive Index and the workers under the channel</em></p>
 </div>
 
@@ -46,12 +46,15 @@ Well for this you need to have the knowledge of some basic things like mirror an
 #### 5. I wanna work with you. Can I?
 Well we aren't accepting any requests for joining our community but if we want we'll post on channel.
 
+#### 6. I wanna ask some more questions related to you. Where can I ask?
+You can ask in the [discussion](https://t.me/HentaiAsylum_Group) by tagging @HentaiAsylum_Helper
+
 
 ## Sponsors and donations
 Providing Free Service is hard! If you happen to like this project and want the site to keep going, please consider sponsoring me or providing a single donation! Thanks for all the love and support!
- You can contact and donate us (Sorry we do not let users directly give donation cause we need some feedback also) Contact - [Here](https://t.me/HentaiAsylumHelper)
+ You can contact and donate us (Sorry we do not let users directly give donation cause we need some feedback also) Contact - [Here](https://t.me/HentaiAsylum_Helper)
 
-## License
+## Thankings
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bottesterheroku/onedrive-imgs/main/footer.png" />
