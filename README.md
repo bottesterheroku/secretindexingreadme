@@ -47,7 +47,7 @@ Well for this you need to have the knowledge of some basic things like mirror an
 Well we aren't accepting any requests for joining our community but if we want we'll post on channel.
 
 #### 6. I wanna ask some more questions related to you. Where can I ask?
-You can ask in the [discussion](https://t.me/HentaiAsylum_Group) by tagging @HentaiAsylum_Helper
+You can ask in the [discussion group](https://t.me/HentaiAsylum_Group) by tagging @HentaiAsylum_Helper
 
 
 ## Sponsors and donations
