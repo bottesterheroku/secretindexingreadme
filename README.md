@@ -31,7 +31,20 @@ Yes! Completely free to download but you need to pass the link shortner which co
 
 ## FAQs / Questions 
 
+#### 1. Will you ever open website of Hentai?
+Making website requires some funds to come if we get enough funds then we'll surely open hentai channel for you all and that too free
 
+#### 2. Who are the admins of the channel and why don't they reveal themselves?
+We want to be anonymous because if someone gets to know that we are the hentai uploaders, people will report and the hentai channel will get down
+
+#### 3. Can you upload my hentai please?
+It takes time to make a channel fill it with hentai videos and also provide download links of that hentai and that too free. Hope you understand.
+
+#### 4. I also want to open a hentai channel like you. How can I do that?
+Well for this you need to have the knowledge of some basic things like mirror and leech bots and userbots etc. And how to handle channels and do promos with those who have the same community
+
+#### 5. I wanna work with you. Can I?
+Well we aren't accepting any requests for joining our community but if we want we'll post on channel.
 
 
 ## Sponsors and donations
